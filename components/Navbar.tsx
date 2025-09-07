@@ -24,9 +24,6 @@ const Navbar = () => {
         
         <div className="hero-nav-links">
           <Link href="/interview" className="nav-link">Practice</Link>
-          <Link href="/analytics" className="nav-link">Analytics</Link>
-          <Link href="/progress" className="nav-link">Progress</Link>
-          <Link href="/improvement-plan" className="nav-link">Learning Plan</Link>
           <Link href="/feedback" className="nav-link">Feedback</Link>
           <Link href="/call-data" className="nav-link">Interviews</Link>
           <LogoutButton />
