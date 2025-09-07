@@ -1,4 +1,4 @@
-# 🎯 BohdAi - AI-Powered Interview Platform
+# 🎯 HatchWays - AI-Powered Interview Platform
 
 > An intelligent interview preparation platform that helps candidates practice and improve their interview skills using cutting-edge AI technology.
 
